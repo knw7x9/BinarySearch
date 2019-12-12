@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.isu.cs2235.algorithms.impl.BinarySearchTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-09-06T19:30:05" hostname="Katie-PC" time="0.003">
+  <properties/>
+  <testcase name="testIterativeBinarySearch_5" classname="edu.isu.cs2235.algorithms.impl.BinarySearchTest" time="0.002"/>
+  <testcase name="testSearch_2" classname="edu.isu.cs2235.algorithms.impl.BinarySearchTest" time="0.0"/>
+  <testcase name="testSearch_3" classname="edu.isu.cs2235.algorithms.impl.BinarySearchTest" time="0.0"/>
+  <testcase name="testSearch_4" classname="edu.isu.cs2235.algorithms.impl.BinarySearchTest" time="0.0"/>
+  <testcase name="testSearch" classname="edu.isu.cs2235.algorithms.impl.BinarySearchTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
